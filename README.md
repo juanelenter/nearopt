@@ -1,6 +1,11 @@
-# Near-Optimal Solutions of Constrained Learning Problems ![stache](stache.png)
+# Near-Optimal Solutions of Constrained Learning Problems 
 
-[PAPER](https://arxiv.org/abs/2403.11844) // [POSTER](https://iclr.cc/media/PosterPDFs/ICLR%202024/18193.png?t=1714760882.5786023)
+ <p align="center">
+  <img src="stache.png" />
+</p>
+
+[Paper](https://arxiv.org/abs/2403.11844) 
+[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202024/18193.png?t=1714760882.5786023)
 
 ## Abstract
 
