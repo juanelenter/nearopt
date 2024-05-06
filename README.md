@@ -1,6 +1,6 @@
-# Near-Optimal Solutions of Constrained Learning Problems
+# Near-Optimal Solutions of Constrained Learning Problems ![stache](stache.png)
 
-![Project Image](insert_image_url_here)
+[PAPER](https://arxiv.org/abs/2403.11844) // [POSTER](https://iclr.cc/media/PosterPDFs/ICLR%202024/18193.png?t=1714760882.5786023)
 
 ## Abstract
 
@@ -26,7 +26,7 @@ With the widespread adoption of machine learning systems, the need to curtail th
 
 ## Introduction
 
-Under construction.
+![Project Image](iclrposter.png)
 
 ## Installation
 
